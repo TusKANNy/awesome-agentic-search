@@ -23,7 +23,7 @@ An extensive and commented list of resources on **agentic search** and **agentic
   - [RL-based Training](#rl-based-training)
   - [Data Synthesis](#data-synthesis)
   - [Analysis & Ablations](#analysis--ablations)
-- [Analysis & Evaluation](#analysis--evaluation)
+- [Systems & Benchmarks](#systems--benchmarks)
   - [Systems & Frameworks](#systems--frameworks)
   - [Benchmarks](#benchmarks)
 - [Resources](#resources)
@@ -70,7 +70,7 @@ Ruiran Yan, Zheng Liu, Defu Lian
 arXiv, 2025  
 📄 [paper](https://arxiv.org/abs/2502.07555)
 
-- *DeepRetrieval: Hacking Real Search Engines and Retrievers with Large Language Models via Reinforcement Learning* ↔ *(see [RL-based Training](#rl-based-training))*  
+- *DeepRetrieval: Hacking Real Search Engines and Retrievers with Large Language Models via Reinforcement Learning*  
 Pengcheng Jiang, Jiacheng Lin, Lang Cao, Runchu Tian, SeongKu Kang, Zifeng Wang, Jimeng Sun, Jiawei Han  
 COLM, 2025  
 📄 [paper](https://arxiv.org/abs/2503.00223) | 🛠️ [code](https://github.com/pat-jj/DeepRetrieval)
@@ -158,6 +158,11 @@ arXiv, 2025
 Tingyu Song, Yilun Zhao, Siyue Zhang, Chen Zhao, Arman Cohan  
 EMNLP, 2025  
 📄 [paper](https://arxiv.org/abs/2510.23544) | 🛠️ [code](https://github.com/SighingSnow/LimRank)
+
+- *Reproducing Adaptive Reranking for Reasoning-Intensive IR*  
+Mandeep Rathee, Venktesh V, Sean MacAvaney, Avishek Anand  
+SIGIR, 2026  
+📄 [paper](https://arxiv.org/abs/2604.27577)
 
 - *Verbal-R3: Verbal Reranker as the Missing Bridge between Retrieval and Reasoning*  
 Sangkwon Park, Donghun Kang, Jisoo Mok, Sungroh Yoon  
@@ -290,11 +295,6 @@ SIGIR, 2026
 Shreyas Subramanian, Adewale Akinfaderin, Yanyan Zhang, Ishan Singh, Mani Khanuja, Sandeep Singh, Maira Ladeira Tanke  
 AAAI, 2026  
 📄 [paper](https://arxiv.org/abs/2602.23368)
-
-- *Reproducing Adaptive Reranking for Reasoning-Intensive IR* ↔ *(see [Reranking](#reranking))*  
-Mandeep Rathee, Venktesh V, Sean MacAvaney, Avishek Anand  
-SIGIR, 2026  
-📄 [paper](https://arxiv.org/abs/2604.27577)
 
 - *Superintelligent Retrieval Agent: The Next Frontier of Information Retrieval*  
 Zeyu Yang, Qi Ma, Jason Chen, Anshumali Shrivastava  
@@ -477,11 +477,6 @@ Guangzhi Xiong, Qiao Jin, Xiao Wang, Yin Fang, Haolin Liu, Yifan Yang, Fangyuan 
 arXiv, 2025  
 📄 [paper](https://arxiv.org/abs/2502.13957) | 🛠️ [code](https://github.com/RAG-Gym/RAG-Gym)
 
-- *DeepRetrieval: Hacking Real Search Engines and Retrievers with Large Language Models via Reinforcement Learning*  
-Pengcheng Jiang, Jiacheng Lin, Lang Cao, Runchu Tian, SeongKu Kang, Zifeng Wang, Jimeng Sun, Jiawei Han  
-COLM, 2025  
-📄 [paper](https://arxiv.org/abs/2503.00223) | 🛠️ [code](https://github.com/pat-jj/DeepRetrieval)
-
 - *R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning*  
 Huatong Song, Jinhao Jiang, Yingqian Min, Jie Chen, Zhipeng Chen, Wayne Xin Zhao, Lei Fang, Ji-Rong Wen  
 arXiv, 2025  
@@ -598,13 +593,12 @@ Wenlin Zhang, Xiangyang Li, Kuicai Dong, Yichao Wang, Pengyue Jia, Xiaopeng Li, 
 arXiv, 2025  
 📄 [paper](https://arxiv.org/abs/2505.14069)
 
-
 - *An Empirical Study on Reinforcement Learning for Reasoning-Search Interleaved LLM Agents*  
 Bowen Jin, Jinsung Yoon, Priyanka Kargupta, Sercan Ö. Arık, Jiawei Han  
 arXiv, 2025  
 📄 [paper](https://arxiv.org/abs/2505.15117) | 🛠️ [code](https://github.com/PeterGriffinJin/Search-R1)
 
-## Analysis & Evaluation
+## Systems & Benchmarks
 
 ### Systems & Frameworks
 
