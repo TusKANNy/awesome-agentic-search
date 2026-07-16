@@ -140,6 +140,11 @@ Yilun Zhao, Jinbiao Wei, Tingyu Song, Siyue Zhang, Chen Zhao, Arman Cohan
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2605.04018)
 
+- *LatentRAG: Latent Reasoning and Retrieval for Efficient Agentic RAG*  
+Yijia Zheng, Marcel Worring  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2605.06285)
+
 - *Critic-R: Improving Agentic Search using Instruction-tuned Retrievers with Natural Language Introspective Feedback*  
 Md Zarif Ul Alam, Alireza Salemi, Hamed Zamani  
 arXiv, 2026  
@@ -203,6 +208,11 @@ Nilesh Gupta, Wei-Cheng Chang, Ngot Bui, Cho-Jui Hsieh, Inderjit S. Dhillon
 arXiv, 2025  
 📄 [paper](https://arxiv.org/abs/2510.13217) | 🛠️ [code](https://github.com/nilesh2797/llm-guided-hierarchical-search)
 
+- *Deep GraphRAG: A Balanced Approach to Hierarchical Retrieval and Adaptive Integration*  
+Yuejie Li, Ke Yang, Bolin Chen, Bowen Li, Chengjun Mao, Tao Wang  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2601.11144)
+
 - *A-RAG: Scaling Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces*  
 Mingxuan Du, Benfeng Xu, Chiwei Zhu, Shaohan Wang, Pengyu Wang, Xiaorui Wang, Zhendong Mao  
 arXiv, 2026  
@@ -251,6 +261,11 @@ arXiv, 2026
 Alireza Salemi, Chang Zeng, Atharva Nijasure, Jui-Hui Chung, Razieh Rahimi, Fernando Diaz, Hamed Zamani  
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2605.29307)
+
+- *Harness-1: Reinforcement Learning for Search Agents with State-Externalizing Harnesses*  
+Pengcheng Jiang, Zhiyi Shi, Kelly Hong, Xueqiang Xu, Jiashuo Sun, Jimeng Sun, Hammad Bashir, Jiawei Han  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2606.02373) | 🛠️ [code](https://github.com/pat-jj/harness-1)
 
 - *Towards Retrieving Interaction Spaces for Agentic Search (RISE)*  
 Shengyao Zhuang, Yuansheng Ni, Hengxin Fun, Jimmy Lin, Xueguang Ma  
@@ -432,6 +447,11 @@ Jaewan Park, Solbee Cho, Jay-Yoon Lee
 NeurIPS Workshop, 2025  
 📄 [paper](https://arxiv.org/abs/2510.14337)
 
+- *AutoSearch: Adaptive Search Depth for Efficient Agentic RAG via Reinforcement Learning*  
+Jingbo Sun, Wenyue Chong, Songjun Tu, Qichao Zhang, Yaocheng Zhang, Jiajun Chai, Xiaohan Wang, Wei Lin, Guojun Yin, Dongbin Zhao  
+ACL Findings, 2026  
+📄 [paper](https://arxiv.org/abs/2604.17337) | 🛠️ [code](https://github.com/bofusun/AutoSearch)
+
 ### Context & Memory Management
 
 Managing information across long-horizon search trajectories without losing critical context.
@@ -561,6 +581,11 @@ arXiv, 2025
 Kun Luo, Hongjin Qian, Zheng Liu, Ziyi Xia, Shitao Xiao, Siqi Bao, Jun Zhao, Kang Liu  
 arXiv, 2025  
 📄 [paper](https://arxiv.org/abs/2510.26575)
+
+- *Optimizing Agentic Reasoning with Retrieval via Synthetic Semantic Information Gain Reward (InfoReasoner)*  
+Senkang Hu, Yong Dai, Yuzhi Zhao, Yihang Tao, Yu Guo, Zhengru Fang, Sam Tak Wu Kwong, Yuguang Fang  
+ICML, 2026  
+📄 [paper](https://arxiv.org/abs/2602.00845) | 🛠️ [code](https://github.com/dl-m9/InfoReasoner)
 
 - *SubSearch: Intermediate Rewards for Unsupervised Guided Reasoning in Complex Retrieval*  
 Roxana Petcu, Evangelos Kanoulas, Maarten de Rijke  
