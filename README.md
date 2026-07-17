@@ -1,4 +1,4 @@
-# Awesome Agentic Search with a focus on the Retrieval Interface
+# Awesome Retrieval for Agentic Search
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re) ![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
 
@@ -785,3 +785,8 @@ arXiv, 2025
 Yu Wang, et al.  
 arXiv, 2025  
 📄 [paper](https://arxiv.org/abs/2510.16724) | 🛠️ [repo](https://github.com/ventr1c/Awesome-RL-based-Agentic-Search-Papers)
+
+
+### List Maintainers
+
+Francesco Benocci (ISTI-CNR, Pisa, Italy)
