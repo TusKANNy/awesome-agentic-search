@@ -150,6 +150,11 @@ Md Zarif Ul Alam, Alireza Salemi, Hamed Zamani
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2606.00590)
 
+- *RL-Index: Reinforcement Learning for Retrieval Index Reasoning*  
+Yongjia Lei, Zhisheng Qi, Utkarsh Sahu, Yu Wang, Nedim Lipka, Koustava Goswami, Franck Dernoncourt, Ryan A. Rossi  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2606.16316)
+
 ### Reranking
 
 Reranking components made reasoning-aware or reorganized around agentic search, rather than a fixed sequential pass.
@@ -212,6 +217,11 @@ arXiv, 2025
 Yuejie Li, Ke Yang, Bolin Chen, Bowen Li, Chengjun Mao, Tao Wang  
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2601.11144)
+
+- *T-Retriever: Tree-based Hierarchical Retrieval Augmented Generation for Textual Graphs*  
+Chunyu Wei, Huaiyu Qin, Siyuan He, Yunhai Wang, Yueguo Chen  
+AAAI, 2026  
+📄 [paper](https://arxiv.org/abs/2601.04945) | 🛠️ [code](https://github.com/T-Retriever/T-Retriever)
 
 - *A-RAG: Scaling Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces*  
 Mingxuan Du, Benfeng Xu, Chiwei Zhu, Shaohan Wang, Pengyu Wang, Xiaorui Wang, Zhendong Mao  
@@ -451,6 +461,16 @@ NeurIPS Workshop, 2025
 Jingbo Sun, Wenyue Chong, Songjun Tu, Qichao Zhang, Yaocheng Zhang, Jiajun Chai, Xiaohan Wang, Wei Lin, Guojun Yin, Dongbin Zhao  
 ACL Findings, 2026  
 📄 [paper](https://arxiv.org/abs/2604.17337) | 🛠️ [code](https://github.com/bofusun/AutoSearch)
+
+- *GRASP: GRanularity-Aware Search Policy for Agentic RAG*  
+Varun Gandhi, Jaewook Lee, Shantanu Todmal, Andrew Lan, Franck Dernoncourt, Ryan Rossi, Zichao Wang  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2607.10463)
+
+- *R²-Searcher: Calibrating Retrieval and Reasoning Boundaries for Agentic Search*  
+Sheng Zhang, Junyi Li, Wenlin Zhang, Xiaowei Qian, Yingyi Zhang, Maolin Wang, Yichao Wang, Yong Liu, Xiangyu Zhao  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2606.28566)
 
 ### Context & Memory Management
 
@@ -740,6 +760,16 @@ arXiv, 2026
 Tongzhou Wu, Yuhao Wang, Xinyu Ma, Xiuqiang He, Shuaiqiang Wang, Dawei Yin, Xiangyu Zhao  
 SIGIR, 2026  
 📄 [paper](https://arxiv.org/abs/2603.01152) | 🛠️ [code](https://github.com/Applied-Machine-Learning-Lab/DeepResearch-R1)
+
+- *PaperSearchQA: Learning to Search and Reason over Scientific Papers with RLVR*  
+James Burgess, Jan N. Hansen, Duo Peng, Yuhui Zhang, Alejandro Lozano, Min Woo Sun, Emma Lundberg, Serena Yeung-Levy  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2601.18207) | 🛠️ [code](https://github.com/jmhb0/PaperSearchQA)
+
+- *DeepWeb-Bench: A Deep Research Benchmark Demanding Massive Cross-Source Evidence and Long-Horizon Derivation*  
+Sixiong Xie, Zhuofan Shi, Haiyang Shen, Jiuzheng Wang, Siqi Zhong, Mugeng Liu, Chongyang Pan, Peilun Jia, Baoqing Sun, Xiang Jing, Yun Ma  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2605.21482)
 
 
 ## Resources
