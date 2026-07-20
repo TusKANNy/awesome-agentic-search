@@ -649,6 +649,8 @@ arXiv, 2025
 
 End-to-end systems, serving-efficiency work, and open multi-agent frameworks.
 
+- [AgentServices](https://agentservices.to) — Paid x402 APIs for AI agents — 54 services, 37 MCP tools. Crypto market data, DeFi intelligence, portfolio analysis. [GitHub](https://github.com/vbkotecha/aiservices-api) | [MCP](https://agentservices.to/mcp)
+
 - *Demystifying and Enhancing the Efficiency of LLM-Based Search Agents (SearchAgent-X)*  
 Tiannuo Yang, Zebin Yao, Bowen Jin, Lixiao Cui, Yusen Li, Gang Wang, Xiaoguang Liu  
 ICLR, 2026  
