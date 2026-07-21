@@ -253,7 +253,7 @@ ICLR, 2026
 📄 [paper](https://arxiv.org/abs/2510.27566) | 🔗 [openreview](https://openreview.net/forum?id=yHUjWb6eMe)
 
 - *Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction*  
-Zhuofeng Li, Haoxiang Zhang, Cong Wei, Pan Lu, Ping Nie, Yi Lu, Yuyang Bai, et al.  
+Zhuofeng Li, Haoxiang Zhang, Cong Wei, Pan Lu, Ping Nie, Yi Lu, Yuyang Bai, Shangbin Feng, Hangxiao Zhu, Ming Zhong, Yuyu Zhang, Jianwen Xie, Yejin Choi, James Zou, Jiawei Han, Wenhu Chen, Jimmy Lin, Dongfu Jiang, Yu Zhang.
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2605.05242) | 🛠️ [code](https://github.com/DCI-Agent/DCI-Agent-Lite)
 
@@ -340,7 +340,7 @@ Core papers on the agent's search behavior: how it plans, queries, retrieves, an
 Foundational architectures that define the agent's core reasoning loop: interleaving thought, action, and retrieval.
 
 - *WebGPT: Browser-Assisted Question-Answering with Human Feedback*  
-Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina Kim, Christopher Hesse, Shantanu Jain, Vineet Kosaraju, William Saunders, et al.  
+Reiichiro Nakano, Jacob Hilton, Suchir Balaji, Jeff Wu, Long Ouyang, Christina Kim, Christopher Hesse, Shantanu Jain, Vineet Kosaraju, William Saunders, Xu Jiang, Karl Cobbe, Tyna Eloundou, Gretchen Krueger, Kevin Button, Matthew Knight, Benjamin Chess, John Schulman.  
 arXiv, 2021  
 📄 [paper](https://arxiv.org/abs/2112.09332)
 
@@ -443,12 +443,12 @@ NeurIPS, 2025
 📄 [paper](https://arxiv.org/abs/2505.09316)
 
 - *R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning*  
-Huatong Song, Jinhao Jiang, Wenqing Tian, Zhipeng Chen, Yuhuan Wu, Jiahao Zhao, Yingqian Min, et al.  
+Huatong Song, Jinhao Jiang, Wenqing Tian, Zhipeng Chen, Yuhuan Wu, Jiahao Zhao, Yingqian Min, Wayne Xin Zhao, Lei Fang, Ji-Rong Wen.  
 arXiv, 2025  
 📄 [paper](https://arxiv.org/abs/2505.17005) | 🛠️ [code](https://github.com/RUCAIBox/R1-Searcher-plus)
 
 - *Pangu DeepDiver: Adaptive Search Intensity Scaling via Open-Web Reinforcement Learning*  
-Wenxuan Shi, Haochen Tan, Chuqiao Kuang, Xiaoguang Li, Xiaozhe Ren, Chen Zhang, Hanting Chen, et al.  
+Wenxuan Shi, Haochen Tan, Chuqiao Kuang, Xiaoguang Li, Xiaozhe Ren, Chen Zhang, Hanting Chen, Yasheng Wang, Lu Hou, Lifeng Shang.
 arXiv, 2025  
 📄 [paper](https://arxiv.org/abs/2505.24332)
 
@@ -472,6 +472,11 @@ Sheng Zhang, Junyi Li, Wenlin Zhang, Xiaowei Qian, Yingyi Zhang, Maolin Wang, Yi
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2606.28566)
 
+- *TASR: Training-Free Adaptive Stopping for Iterative Retrieval*  
+Adrian Kieback, Uyiosa Philip Amadasun, Aman Chadha, Aaron Elkins  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2606.13814) | 🛠️ [code](https://github.com/JSBAICenter/TASR)
+
 ### Context & Memory Management
 
 Managing information across long-horizon search trajectories without losing critical context.
@@ -482,17 +487,17 @@ ICLR, 2026
 📄 [paper](https://arxiv.org/abs/2506.15841) | 🛠️ [code](https://github.com/MIT-MI/MEM1)
 
 - *WebResearcher: Unleashing Unbounded Reasoning Capability in Long-Horizon Agents*  
-Zile Qiao, Guoxin Chen, Xuanzhong Chen, Donglei Yu, Wenbiao Yin, Xinyu Wang, Zhen Zhang, Baixuan Li, Huifeng Yin, Kuan Li, et al.  
+Zile Qiao, Guoxin Chen, Xuanzhong Chen, Donglei Yu, Wenbiao Yin, Xinyu Wang, Zhen Zhang, Baixuan Li, Huifeng Yin, Kuan Li, Rui Min, Minpeng Liao, Yong Jiang, Pengjun Xie, Fei Huang, Jingren Zhou.
 arXiv, 2025  
 📄 [paper](https://arxiv.org/abs/2509.13309) | 🛠️ [code](https://github.com/Alibaba-NLP/DeepResearch)
 
 - *ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization*  
-Xixi Wu, Kuan Li, Yida Zhao, Liwen Zhang, Litu Ou, Huifeng Yin, Zhongwang Zhang, et al.  
+Xixi Wu, Kuan Li, Yida Zhao, Liwen Zhang, Litu Ou, Huifeng Yin, Zhongwang Zhang, Xinmiao Yu, Dingchu Zhang, Yong Jiang, Pengjun Xie, Fei Huang, Minhao Cheng, Shuai Wang, Hong Cheng, Jingren Zhou.
 arXiv, 2025  
 📄 [paper](https://arxiv.org/abs/2509.13313) | 🛠️ [code](https://github.com/Alibaba-NLP/WebAgent)
 
 - *AgentFold: Long-Horizon Web Agents with Proactive Context Management*  
-Rui Ye, Zhongwang Zhang, Kuan Li, Huifeng Yin, Zhengwei Tao, Yida Zhao, Liangcai Su, et al.  
+Rui Ye, Zhongwang Zhang, Kuan Li, Huifeng Yin, Zhengwei Tao, Yida Zhao, Liangcai Su, Liwen Zhang, Zile Qiao, Xinyu Wang, Pengjun Xie, Fei Huang, Siheng Chen, Jingren Zhou, Yong Jiang.
 arXiv, 2025  
 📄 [paper](https://arxiv.org/abs/2510.24699)
 
@@ -578,7 +583,7 @@ arXiv, 2025
 📄 [paper](https://arxiv.org/abs/2506.04185)
 
 - *WebSailor: Navigating Super-Human Reasoning for Web Agent*  
-Kuan Li, Zhongwang Zhang, Huifeng Yin, Liwen Zhang, Litu Ou, Jialong Wu, et al.  
+Kuan Li, Zhongwang Zhang, Huifeng Yin, Liwen Zhang, Litu Ou, Jialong Wu, Wenbiao Yin, Baixuan Li, Zhengwei Tao, Xinyu Wang, Weizhou Shen, Junkai Zhang, Dingchu Zhang, Xixi Wu, Yong Jiang, Ming Yan, Pengjun Xie, Fei Huang, Jingren Zhou.
 arXiv, 2025  
 📄 [paper](https://arxiv.org/abs/2507.02592) | 🛠️ [code](https://github.com/Alibaba-NLP/WebAgent)
 
@@ -620,12 +625,12 @@ ACL, 2026
 📄 [paper](https://arxiv.org/abs/2505.15087) | 🛠️ [code](https://github.com/Zh1yuShen/HopWeaver)
 
 - *SimpleDeepSearcher: Deep Information Seeking via Web-Powered Reasoning Trajectory Synthesis*  
-Shuang Sun, Huatong Song, Yuhao Wang, Ruiyang Ren, Jinhao Jiang, Junjie Zhang, et al.  
+Shuang Sun, Huatong Song, Yuhao Wang, Ruiyang Ren, Jinhao Jiang, Junjie Zhang, Fei Bai, Jia Deng, Wayne Xin Zhao, Zheng Liu, Lei Fang, Zhongyuan Wang, Ji-Rong Wen. 
 EMNLP Findings, 2025  
 📄 [paper](https://arxiv.org/abs/2505.16834) | 🛠️ [code](https://github.com/RUCAIBox/SimpleDeepSearcher)
 
 - *WebShaper: Agentically Data Synthesizing via Information-Seeking Formalization*  
-Zhengwei Tao, Jialong Wu, Wenbiao Yin, Junkai Zhang, Baixuan Li, Haiyang Shen, Kuan Li, et al.  
+Zhengwei Tao, Jialong Wu, Wenbiao Yin, Junkai Zhang, Baixuan Li, Haiyang Shen, Kuan Li, Liwen Zhang, Xinyu Wang, Yong Jiang, Pengjun Xie, Fei Huang, Jingren Zhou.
 arXiv, 2025  
 📄 [paper](https://arxiv.org/abs/2507.15061) | 🛠️ [code](https://github.com/Alibaba-NLP/WebAgent)
 
@@ -717,7 +722,7 @@ arXiv, 2025
 📄 [paper](https://arxiv.org/abs/2504.12516)
 
 - *BrowseComp-ZH: Benchmarking Web Browsing Ability of LLMs in Chinese*  
-Peilin Zhou, Bruce Leon, Xiang Ying, Can Zhang, Yifan Shao, et al.  
+Peilin Zhou, Bruce Leon, Xiang Ying, Can Zhang, Yifan Shao, Qichen Ye, Dading Chong, Zhiling Jin, Chenxuan Xie, Meng Cao, Yuxin Gu, Sixin Hong, Jing Ren, Jian Chen, Chao Liu, Yining Hua.
 arXiv, 2025  
 📄 [paper](https://arxiv.org/abs/2504.19314)
 
@@ -737,9 +742,14 @@ NeurIPS, 2025
 📄 [paper](https://arxiv.org/abs/2506.21506) | 🛠️ [code](https://github.com/OSU-NLP-Group/Mind2Web-2)
 
 - *BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of Deep-Research Agents*  
-Zijian Chen, Xueguang Ma, Shengyao Zhuang, Ping Nie, Kai Zou, et al.  
+Zijian Chen, Xueguang Ma, Shengyao Zhuang, Ping Nie, Kai Zou, Andrew Liu, Joshua Green, Kshama Patel, Ruoxi Meng, Mingyi Su, Sahel Sharifymoghaddam, Yanxi Li, Haoran Hong, Xinyu Shi, Xuye Liu, Nandan Thakur, Crystina Zhang, Luyu Gao, Wenhu Chen, Jimmy Lin.
 arXiv, 2025  
 📄 [paper](https://arxiv.org/abs/2508.06600)
+
+- *Beyond Monolingual Deep Research: Evaluating Agents and Retrievers with Cross-Lingual BrowseComp-Plus (XBCP)*  
+Yuheng Lu, Qingcheng Zeng, Heli Qi, Puxuan Yu, Fuheng Zhao, Rui Yang, Hitomi Yanaka, Naoto Yokoya, Weihao Xuan  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2606.15345)
 
 - *WideSearch: Benchmarking Agentic Broad Info-Seeking*  
 Ryan Wong, Jiawei Wang, Junjie Zhao, Li Chen, Yan Gao, Long Zhang, Xuan Zhou, Zuo Wang, Kai Xiang, Ge Zhang, Wenhao Huang, Yang Wang, Ke Wang  
@@ -747,7 +757,7 @@ ICLR, 2026
 📄 [paper](https://arxiv.org/abs/2508.07999) | 🛠️ [code](https://github.com/ByteDance-Seed/WideSearch)
 
 - *InteractComp: Evaluating Search Agents With Ambiguous Queries*  
-Mingyi Deng, Lijun Huang, Yani Fan, Jiayi Zhang, Fashen Ren, et al.  
+Mingyi Deng, Lijun Huang, Yani Fan, Jiayi Zhang, Fashen Ren, Jinyi Bai, Fuzhen Yang, Dayi Miao, Zhaoyang Yu, Yifan Wu, Yanfei Zhang, Fengwei Teng, Yingjia Wan, Song Hu, Yude Li, Xin Jin, Conghao Hu, Haoyu Li, Qirui Fu, Tai Zhong, Xinyu Wang, Xiangru Tang, Nan Tang, Chenglin Wu, Yuyu Luo.
 arXiv, 2025  
 📄 [paper](https://arxiv.org/abs/2510.24668) | 🛠️ [code](https://github.com/FoundationAgents/InteractComp)
 
@@ -782,37 +792,37 @@ arXiv, 2025
 📄 [paper](https://arxiv.org/abs/2506.17188)
 
 - *Deep Research Agents: A Systematic Examination And Roadmap*  
-Yuxuan Huang, Yihang Chen, Haozheng Zhang, Kang Li, Huichi Zhou, et al.  
+Yuxuan Huang, Yihang Chen, Haozheng Zhang, Kang Li, Huichi Zhou, Meng Fang, Linyi Yang, Xiaoguang Li, Lifeng Shang, Songcen Xu, Jianye Hao, Kun Shao, Jun Wang.
 arXiv, 2025  
 📄 [paper](https://arxiv.org/abs/2506.18096) | 🛠️ [repo](https://github.com/ai-agents-2030/awesome-deep-research-agent)
 
 - *From Web Search towards Agentic Deep Research: Incentivizing Search with Reasoning Agents*  
-Weizhi Zhang, Yangning Li, Yuanchen Bei, Junyu Luo, Guancheng Wan, et al.  
+Weizhi Zhang, Yangning Li, Yuanchen Bei, Junyu Luo, Guancheng Wan, Liangwei Yang, Chenxuan Xie, Yuyao Yang, Wei-Chieh Huang, Chunyu Miao, Henry Peng Zou, Xiao Luo, Yusheng Zhao, Yankai Chen, Chunkit Chan, Peilin Zhou, Xinyang Zhang, Chenwei Zhang, Jingbo Shang, Ming Zhang, Yangqiu Song, Irwin King, Philip S. Yu.
 arXiv, 2025  
 📄 [paper](https://arxiv.org/abs/2506.18959) | 🛠️ [repo](https://github.com/DavidZWZ/Awesome-Deep-Research)
 
 - *Towards Agentic RAG with Deep Reasoning: A Survey of RAG-Reasoning Systems in LLMs*  
-Yangning Li, Weizhi Zhang, Yuyao Yang, Wei-Chieh Huang, Yaozu Wu, Junyu Luo, Yuanchen Bei, Henry Peng Zou, Xiao Luo, Yusheng Zhao, et al.  
+Yangning Li, Weizhi Zhang, Yuyao Yang, Wei-Chieh Huang, Yaozu Wu, Junyu Luo, Yuanchen Bei, Henry Peng Zou, Xiao Luo, Yusheng Zhao, Chunkit Chan, Yankai Chen, Zhongfen Deng, Yinghui Li, Hai-Tao Zheng, Dongyuan Li, Renhe Jiang, Ming Zhang, Yangqiu Song, Philip S. Yu.
 EMNLP Findings, 2025  
 📄 [paper](https://arxiv.org/abs/2507.09477) | 🛠️ [repo](https://github.com/DavidZWZ/Awesome-RAG-Reasoning)
 
 - *A Survey of LLM-based Deep Search Agents: Paradigm, Optimization, Evaluation, and Challenges*  
-Yunjia Xi, Jianghao Lin, et al.  
+Yunjia Xi, Jianghao Lin, Yongzhao Xiao, Zheli Zhou, Rong Shan, Te Gao, Jiachen Zhu, Weiwen Liu, Yong Yu, Weinan Zhang.
 arXiv, 2025  
 📄 [paper](https://arxiv.org/abs/2508.05668) | 🛠️ [repo](https://github.com/YunjiaXi/Awesome-Search-Agent-Papers)
 
 - *The Landscape of Agentic Reinforcement Learning for LLMs: A Survey*  
-Guibin Zhang, Hejia Geng, Xiaohang Yu, Zhenfei Yin, et al.  
+Guibin Zhang, Hejia Geng, Xiaohang Yu, Zhenfei Yin, Zaibin Zhang, Zelin Tan, Heng Zhou, Zhongzhi Li, Xiangyuan Xue, Yijiang Li, Yifan Zhou, Yang Chen, Chen Zhang, Yutao Fan, Zihu Wang, Songtao Huang, Francisco Piedrahita-Velez, Yue Liao, Hongru Wang, Mengyue Yang, Heng Ji, Jun Wang, Shuicheng Yan, Philip Torr, Lei Bai.
 arXiv, 2025  
 📄 [paper](https://arxiv.org/abs/2509.02547) | 🛠️ [repo](https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers)
 
 - *Reinforcement Learning Foundations for Deep Research Systems: A Survey*  
-Wenjun Li, Zhi Chen, et al.  
+Wenjun Li, Zhi Chen, Jingru Lin, Hannan Cao, Wei Han, Sheng Liang, Zhi Zhang, Kuicai Dong, Dexun Li, Chen Zhang, Yong Liu.
 arXiv, 2025  
 📄 [paper](https://arxiv.org/abs/2509.06733)
 
-- *A Comprehensive Survey on Reinforcement Learning-based Agentic Search*  
-Yu Wang, et al.  
+- *A Comprehensive Survey on Reinforcement Learning-based Agentic Search: Foundations, Roles, Optimizations, Evaluations, and Applications* 
+Minhua Lin, Zongyu Wu, Zhichao Xu, Hui Liu, Xianfeng Tang, Qi He, Charu Aggarwal, Hui Liu, Xiang Zhang, Suhang Wang.
 arXiv, 2025  
 📄 [paper](https://arxiv.org/abs/2510.16724) | 🛠️ [repo](https://github.com/ventr1c/Awesome-RL-based-Agentic-Search-Papers)
 
