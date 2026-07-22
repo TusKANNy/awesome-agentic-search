@@ -321,6 +321,16 @@ Shreyas Subramanian, Adewale Akinfaderin, Yanyan Zhang, Ishan Singh, Mani Khanuj
 AAAI, 2026  
 📄 [paper](https://arxiv.org/abs/2602.23368)
 
+- *Total Recall QA: A Verifiable Evaluation Suite for Deep Research Agents*  
+Mahta Rafiee, Heydar Soudani, Zahra Abbasiantaeb, Mohammad Aliannejadi, Faegheh Hasibi, Hamed Zamani  
+SIGIR, 2026  
+📄 [paper](https://arxiv.org/abs/2603.18516) | 🛠️ [code](https://github.com/mahta-r/total-recall-qa)
+
+- *Reproducing Complex Set-Compositional Information Retrieval*  
+Vincent Degenhart, Dewi Timman, Arjen P. de Vries, Faegheh Hasibi, Mohanna Hoveyda  
+SIGIR, 2026  
+📄 [paper](https://arxiv.org/abs/2605.03824) | 🛠️ [code](https://github.com/informagi/Complex-Set-Compositional-IR)
+
 - *Superintelligent Retrieval Agent: The Next Frontier of Information Retrieval*  
 Zeyu Yang, Qi Ma, Jason Chen, Anshumali Shrivastava  
 arXiv, 2026  
