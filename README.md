@@ -467,6 +467,11 @@ Jaewan Park, Solbee Cho, Jay-Yoon Lee
 NeurIPS Workshop, 2025  
 📄 [paper](https://arxiv.org/abs/2510.14337)
 
+- *Deep Search with Hierarchical Meta-Cognitive Monitoring Inspired by Cognitive Neuroscience (DS-MCM)*  
+Zhongxiang Sun, Qipeng Wang, Weijie Yu, Jingxuan Yang, Haolang Lu, Jun Xu  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2601.23188)
+
 - *AutoSearch: Adaptive Search Depth for Efficient Agentic RAG via Reinforcement Learning*  
 Jingbo Sun, Wenyue Chong, Songjun Tu, Qichao Zhang, Yaocheng Zhang, Jiajun Chai, Xiaohan Wang, Wei Lin, Guojun Yin, Dongbin Zhao  
 ACL Findings, 2026  
