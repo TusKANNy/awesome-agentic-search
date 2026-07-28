@@ -292,6 +292,11 @@ Charles L. A. Clarke, Mark D. Smucker
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2607.11362) | 🛠️ [code (Vole)](https://github.com/claclark/TheVole) | 🛠️ [code (Cottontail)](https://github.com/claclark/Cottontail)
 
+- *A New Role for Relevance: Guiding Corpus Interaction in Agentic Search (RARG)*  
+Jiangnan Li, Yuqing Li, Mo Yu, Jinchao Zhang, Jie Zhou  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2607.24223) | 🛠️ [code](https://github.com/LeqsNaN/RARG)
+
 ### Retrieval Analysis & Evaluation
 
 Studies characterizing agentic query workloads, comparing retrieval interfaces, and evaluating retrieval quality in deep research settings.
