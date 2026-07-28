@@ -721,6 +721,11 @@ Ori Yoran, Samuel Joseph Amouyal, Chaitanya Malaviya, Ben Bogin, Ofir Press, Jon
 EMNLP, 2024  
 📄 [paper](https://arxiv.org/abs/2407.15711) | 🛠️ [code](https://github.com/oriyor/assistantbench)
 
+- *ClawBench: A Benchmark for Computer-Using AI Agents*  
+Yuxuan Zhang et al.  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2604.08523) | 🛠️ [code](https://github.com/reacher-z/ClawBench) | 🌐 [project](https://claw-bench.com/)
+
 - *FRAMES: Fact, Fetch, and Reason — A Unified Evaluation of Retrieval-Augmented Generation*  
 Satyapriya Krishna, Kalpesh Krishna, Anhad Mohananey, Steven Schwarcz, Adam Stambler, Shyam Upadhyay, Manaal Faruqui  
 NAACL, 2025  
