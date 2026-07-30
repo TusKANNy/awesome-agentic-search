@@ -741,11 +741,6 @@ Ori Yoran, Samuel Joseph Amouyal, Chaitanya Malaviya, Ben Bogin, Ofir Press, Jon
 EMNLP, 2024  
 📄 [paper](https://arxiv.org/abs/2407.15711) | 🛠️ [code](https://github.com/oriyor/assistantbench)
 
-- *ClawBench: A Benchmark for Computer-Using AI Agents*  
-Yuxuan Zhang et al.  
-arXiv, 2026  
-📄 [paper](https://arxiv.org/abs/2604.08523) | 🛠️ [code](https://github.com/reacher-z/ClawBench) | 🌐 [project](https://claw-bench.com/)
-
 - *FRAMES: Fact, Fetch, and Reason — A Unified Evaluation of Retrieval-Augmented Generation*  
 Satyapriya Krishna, Kalpesh Krishna, Anhad Mohananey, Steven Schwarcz, Adam Stambler, Shyam Upadhyay, Manaal Faruqui  
 NAACL, 2025  
@@ -825,6 +820,11 @@ arXiv, 2026
 Sixiong Xie, Zhuofan Shi, Haiyang Shen, Jiuzheng Wang, Siqi Zhong, Mugeng Liu, Chongyang Pan, Peilun Jia, Baoqing Sun, Xiang Jing, Yun Ma  
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2605.21482)
+
+- *ClawBench: Can AI Agents Complete Everyday Online Tasks?*  
+Yuxuan Zhang, Yubo Wang, Yipeng Zhu, Penghui Du, Junwen Miao, Xuan Lu, Zhuofeng Li, Xingwei Qu, Dongfu Jiang, Ping Nie, Jiaheng Liu, Wenhu Chen, Kelsey R. Allen, et al.  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2604.08523) | 🛠️ [code](https://github.com/reacher-z/ClawBench) | 🌐 [project](https://claw-bench.com/)
 
 
 ## Resources
