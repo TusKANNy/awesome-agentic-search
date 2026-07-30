@@ -184,6 +184,11 @@ Chunyu Li, Mengyuan Zhang, Jingyi Kang, Ding Chen, Jiajun Shen, Bo Tang, Xuanhe 
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2605.06132)
 
+- *Tool-Adaptive LLM Reranker (TALRanker)*  
+Zichuan Liu, Ruijin Hua  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2607.10555)
+
 ### Structured & Hierarchical Retrieval
 
 Reorganizing the corpus itself into structures (graphs, hierarchies, wikis) that agents can traverse, rather than a flat similarity index.
@@ -345,6 +350,16 @@ arXiv, 2026
 Sahil Sen, Akhil Kasturi, Elias Lumer, Anmol Gulati, Vamse Kumar Subbiah  
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2605.15184)
+
+- *Bridge Evidence: Static Retrieval Utility Does Not Predict Causal Utility in Multi-Step Agentic Search*  
+Debayan Mukhopadhyay, Utshab Kumar Ghosh, Shubham Chatterjee  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2607.15253)
+
+- *Which RAG Paradigm Wins at Scale? A Scaling Study of Retrieval-Augmented Generation Paradigms*  
+Pengyu Wang, Benfeng Xu, Shaohan Wang, Xin Zeng, Huarui Wu, Lei Zhang, Licheng Zhang  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2607.26497)
 
 ## The Agentic Search Loop
 
@@ -631,6 +646,11 @@ arXiv, 2025
 Senkang Hu, Yong Dai, Yuzhi Zhao, Yihang Tao, Yu Guo, Zhengru Fang, Sam Tak Wu Kwong, Yuguang Fang  
 ICML, 2026  
 📄 [paper](https://arxiv.org/abs/2602.00845) | 🛠️ [code](https://github.com/dl-m9/InfoReasoner)
+
+- *KARL: Knowledge Agents via Reinforcement Learning*  
+Jonathan D. Chang, Andrew Drozdov, Shubham Toshniwal, Owen Oertell, Alexander Trott, Jacob Portes, Abhay Gupta, Pallavi Koppol, Ashutosh Baheti, Sean Kulinski, Ivan Zhou, Irene Dea, Krista Opsahl-Ong, Simon Favreau-Lessard, Sean Owen, Jose Javier Gonzalez Ortiz, Arnav Singhvi, Xabi Andrade, Cindy Wang, Kartik Sreenivasan, Sam Havens, Jialu Liu, Peyton DeNiro, Wen Sun, Michael Bendersky, Jonathan Frankle  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2603.05218)
 
 - *SubSearch: Intermediate Rewards for Unsupervised Guided Reasoning in Complex Retrieval*  
 Roxana Petcu, Evangelos Kanoulas, Maarten de Rijke  
