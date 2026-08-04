@@ -302,6 +302,11 @@ Jiangnan Li, Yuqing Li, Mo Yu, Jinchao Zhang, Jie Zhou
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2607.24223) | 🛠️ [code](https://github.com/LeqsNaN/RARG)
 
+- *Deep Agentic Search for Repository-Level Code Question Answering: An Empirical Study*  
+Amirkia Rafiei Oskooei, Bora Ilci, Alperen Kayim, Mehmet Egemen Uzun, Berat Can, Kaan Emre Kara, Ozan Orhan, Mehmet S. Aktas  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2608.01507)
+
 ### Retrieval Analysis & Evaluation
 
 Studies characterizing agentic query workloads, comparing retrieval interfaces, and evaluating retrieval quality in deep research settings.
@@ -360,6 +365,11 @@ arXiv, 2026
 Pengyu Wang, Benfeng Xu, Shaohan Wang, Xin Zeng, Huarui Wu, Lei Zhang, Licheng Zhang  
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2607.26497)
+
+- *Diagnosing Search Behavior and Failure Modes in Long-Horizon Search Agents*  
+Qi Liu, Jiaxin Mao, Fengbin Zhu, Tat-Seng Chua  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2608.01913)
 
 ## The Agentic Search Loop
 
@@ -432,6 +442,11 @@ arXiv, 2025
 Tongyu Wen, Guanting Dong, Zhicheng Dou  
 SIGIR, 2026  
 📄 [paper](https://arxiv.org/abs/2601.04888) | 🛠️ [code](https://github.com/RUC-NLPIR/SmartSearch)
+
+- *Plan Before Search: Search Agents Need Plan*  
+Zhipeng Qian, Zihan Liang, Yufei Ma, Ben Chen, Huangyu Dai, Jiayi Ji, Chenyi Lei, Wenwu Ou, Xiaoshuai Sun, Qibin Hou  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2605.28354)
 
 ### Adaptive Retrieval Control
 
@@ -687,6 +702,11 @@ arXiv, 2025
 Bowen Jin, Jinsung Yoon, Priyanka Kargupta, Sercan Ö. Arık, Jiawei Han  
 arXiv, 2025  
 📄 [paper](https://arxiv.org/abs/2505.15117) | 🛠️ [code](https://github.com/PeterGriffinJin/Search-R1)
+
+- *Retrieval, Reward, and Training Protocols: What Matters in Training Search Agents?*  
+Yibo Zhao, Zichen Ding, Jiayi Wu, Zun Wang, Xiang Li  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2605.27881)
 
 ## Systems & Benchmarks
 
