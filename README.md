@@ -189,6 +189,11 @@ Zichuan Liu, Ruijin Hua
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2607.10555)
 
+- *Training Documents Reranker with Search Rubrics for Deep Research Agent (RubricRanker)*  
+Wenhan Liu, Yu Lu, Qiaolin Xia, Hui Xu, Tong Zhao, Jian Xi, Yutao Zhu, Haijin Liang, Haibo Shi, Hao Wang, Zhicheng Dou  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2608.03527)
+
 ### Structured & Hierarchical Retrieval
 
 Reorganizing the corpus itself into structures (graphs, hierarchies, wikis) that agents can traverse, rather than a flat similarity index.
@@ -306,6 +311,16 @@ arXiv, 2026
 Amirkia Rafiei Oskooei, Bora Ilci, Alperen Kayim, Mehmet Egemen Uzun, Berat Can, Kaan Emre Kara, Ozan Orhan, Mehmet S. Aktas  
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2608.01507)
+
+- *Beyond Top-K: Replacing Black-Box Retrieval with Interpretable Agentic Operations*  
+Sagar Tamang, Ayush Vyas, Tabarakul Hazarika  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2608.06305)
+
+- *Search, Inspect, Fetch: Exploiting Structure-Aware Boolean Retrieval for Deep-Research Agents (SIEVE)*  
+Shuai Wang, Haodong Chen, Yu Yin, Shengyao Zhuang, Bevan Koopman, Guido Zuccon  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2608.02751)
 
 ### Retrieval Analysis & Evaluation
 
@@ -707,6 +722,11 @@ arXiv, 2025
 Yibo Zhao, Zichen Ding, Jiayi Wu, Zun Wang, Xiang Li  
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2605.27881)
+
+- *HERALD: Counterfactual Audits and Minimal Repairs for Proof-of-Retrieval Rewards*  
+Zhuowen Liu, Bohan Cui, YinShang Guo, Yuting Wang, Hao Li  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2608.06012)
 
 ## Systems & Benchmarks
 
