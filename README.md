@@ -322,6 +322,11 @@ Shuai Wang, Haodong Chen, Yu Yin, Shengyao Zhuang, Bevan Koopman, Guido Zuccon
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2608.02751)
 
+- *Fetch-then-Explore: Decoupling Selection from Extraction over a Persistent Workspace for Search Agents*  
+Qi Liu, Yiqun Chen, Zidan Chen, Yan Gao, Yi Wu, Yao Hu, Jiaxin Mao, Fengbin Zhu, Tat-Seng Chua  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2608.02097) | 🛠️ [code](https://github.com/liuqi6777/search_agent)
+
 ### Retrieval Analysis & Evaluation
 
 Studies characterizing agentic query workloads, comparing retrieval interfaces, and evaluating retrieval quality in deep research settings.
@@ -385,6 +390,11 @@ arXiv, 2026
 Qi Liu, Jiaxin Mao, Fengbin Zhu, Tat-Seng Chua  
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2608.01913)
+
+- *The Devil Is in the Interface: Evaluating How Tool Architecture Shapes Coding Agent Behavior*  
+Xiangzhe Xu, Hamidreza Saghir, Qianhui Wu, Marc-Alexandre Côté, Tong Wang, Kiran Lakkaraju, Kexin Pei, Xiangyu Zhang  
+COLM, 2026  
+📄 [paper](https://arxiv.org/abs/2608.11386) | 🛠️ [code](https://github.com/XZ-X/tool-arch-study)
 
 ## The Agentic Search Loop
 
@@ -571,6 +581,16 @@ Sheng Zhang, Junyi Li, Yingyi Zhang, Pengyue Jia, Yichao Wang, Xiaowei Qian, Wen
 ACL, 2026  
 📄 [paper](https://arxiv.org/abs/2604.17265)
 
+- *Self-Correcting Long-Horizon Search Agents via Tree-Structured Memory (ReTree)*  
+Aijun Yang, Qianxue Guo, Ziyi Huang, Yuxuan Chen, Shiyou Qian, Jian Cao  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2608.10676)
+
+- *Mitigating Context Interference for Reliable and Efficient Search Agents (CRRL)*  
+Boyang Xue, Bin Wu, Shuofei Qiao, Sheng Wang, Rui Wang, Yiming Du, Hongru Wang, Jeff Z. Pan, Emine Yilmaz, Kam-Fai Wong, Aldo Lipani  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2608.10743) | 🛠️ [code](https://github.com/AmourWaltz/CRRL)
+
 ## Training & Optimization
 
 Methods for training agents to search effectively, through reinforcement learning or synthetic data generation. This section is provided for context — this list's focus is on the retrieval side of agentic search. For a more in-depth selection of RL-based agentic search training papers, see [Awesome-RL-based-Agentic-Search-Papers](https://github.com/ventr1c/Awesome-RL-based-Agentic-Search-Papers).
@@ -686,6 +706,16 @@ arXiv, 2026
 Roxana Petcu, Evangelos Kanoulas, Maarten de Rijke  
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2604.07415) | 🛠️ [code](https://github.com/RoxanaPetcu/SubSearch)
+
+- *BOUND: Brief-Guided Corrective Preference Distillation at Search-Control Boundaries*  
+Qingying Niu, Ruiyang Ren, Wayne Xin Zhao, Yaliang Li  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2608.08768) | 🛠️ [code](https://github.com/RUCAIBox/BOUND)
+
+- *LoongReflect: Boosting Long-Horizon Reflection in Search Agents via Global Perspective Distillation*  
+Zhixin Zhang, Xinke Jiang, Zhibang Yang, Weixuan Xu, Guohong Qiu, Xu Chu, Junfeng Zhao, Yasha Wang  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2608.11967)
 
 ### Data Synthesis
 
