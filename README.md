@@ -846,6 +846,11 @@ Mingxuan Du, Benfeng Xu, Chiwei Zhu, Xiaorui Wang, Zhendong Mao
 arXiv, 2025  
 📄 [paper](https://arxiv.org/abs/2506.11763) | 🛠️ [code](https://github.com/Ayanami0730/deep_research_bench)
 
+- *Dr. Bench: A Multidimensional Evaluation for Deep Research Agents, from Answers to Reports*
+Yang Yao, Yixu Wang, Yuxuan Zhang, Yi Lu, Tianle Gu, Lingyu Li, Dingyi Zhao, Keming Wu, Haozhe Wang, Ping Nie, Yan Teng, Yingchun Wang
+arXiv, 2025
+📄 [paper](https://arxiv.org/abs/2510.02190) | 🛠️ [code](https://github.com/EVIGBYEN/DrBench)
+
 - *Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge*  
 Boyu Gou, Zanming Huang, Yuting Ning, Yu Gu, Michael Lin, Weijian Qi, Andrei Kopanev, Botao Yu, Bernal Jimenez Gutierrez, Yiheng Shu, Chan Hee Song, Jiaman Wu, Shijie Chen, Hanane Moussa, Tianshu Zhang, Jian Xie, Yifei Li, Tianci Xue, Zeyi Liao, Kai Zhang, Boyuan Zheng, Zhaowei Cai, Viktor Rozgic, Morteza Ziyadi, Huan Sun, Yu Su  
 NeurIPS, 2025  
