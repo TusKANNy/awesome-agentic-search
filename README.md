@@ -155,6 +155,11 @@ Yongjia Lei, Zhisheng Qi, Utkarsh Sahu, Yu Wang, Nedim Lipka, Koustava Goswami, 
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2606.16316)
 
+- *Retrieval Grounding Latent Reasoning for Dense Retrieval (RGLT)*  
+Gang Zhou, Xiongxi Yu, Hu Tian, Yang Wei, Lu Pan, Ke Zeng, Shibiao Xu, Xiaolong Zheng  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2608.14107)
+
 ### Reranking
 
 Reranking components made reasoning-aware or reorganized around agentic search, rather than a fixed sequential pass.
@@ -326,6 +331,11 @@ arXiv, 2026
 Qi Liu, Yiqun Chen, Zidan Chen, Yan Gao, Yi Wu, Yao Hu, Jiaxin Mao, Fengbin Zhu, Tat-Seng Chua  
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2608.02097) | 🛠️ [code](https://github.com/liuqi6777/search_agent)
+
+- *When Your Agent Opens the Chat App: Agent-Controlled Search over Raw Chat Logs Rivals Structured Memory (ReFind)*  
+Ruizhe Li, Licheng Zhang, Benfeng Xu, Mingxuan Du, Zheren Fu, Weidong Chen  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2608.12888)
 
 ### Retrieval Analysis & Evaluation
 
