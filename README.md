@@ -160,6 +160,11 @@ Gang Zhou, Xiongxi Yu, Hu Tian, Yang Wei, Lu Pan, Ke Zeng, Shibiao Xu, Xiaolong 
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2608.14107)
 
+- *Navigation-Informed Embeddings: Dense-Retriever Adaptation from Agent Search Traces*  
+Shrey Shah, Levent Ozgur  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2608.15956)
+
 ### Reranking
 
 Reranking components made reasoning-aware or reorganized around agentic search, rather than a fixed sequential pass.
@@ -336,6 +341,11 @@ arXiv, 2026
 Ruizhe Li, Licheng Zhang, Benfeng Xu, Mingxuan Du, Zheren Fu, Weidong Chen  
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2608.12888)
+
+- *LENS: In-Context Search via Latent Evidence Exploration over Dynamic Raw Documents*  
+Xingjun Wang, Gongsheng Li, Qi Fan, Yunlin Mao, Luyan Su, Yingda Chen  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2608.16185)
 
 ### Retrieval Analysis & Evaluation
 
@@ -561,6 +571,11 @@ arXiv, 2026
 Adrian Kieback, Uyiosa Philip Amadasun, Aman Chadha, Aaron Elkins  
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2606.13814) | 🛠️ [code](https://github.com/JSBAICenter/TASR)
+
+- *When Deep Research Agents Stagnate: Enhancing Reasoning with Retrieval-Aware Agent Control (RAAC)*  
+Heydar Soudani, Elizabeth Lingg, Faegheh Hasibi, Navid Rekabsaz  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2608.15191)
 
 ### Context & Memory Management
 
