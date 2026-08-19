@@ -926,6 +926,11 @@ Yuxuan Zhang, Yubo Wang, Yipeng Zhu, Penghui Du, Junwen Miao, Xuan Lu, Zhuofeng 
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2604.08523) | 🛠️ [code](https://github.com/reacher-z/ClawBench) | 🌐 [project](https://claw-bench.com/)
 
+- *VisDocAgentBench: Benchmarking Agents for Visually Rich Document Retrieval*  
+Lexiang Hu, Yanzhao Zhang, Mingxin Li, Dingkun Long, Yikang Li, Fuwei Zhang, Yisen Wang, Zhouchen Lin  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2608.17889) | 🌐 [project](https://hulx2002.github.io/VisDocAgentBench)
+
 
 ## Resources
 
