@@ -347,6 +347,11 @@ Xingjun Wang, Gongsheng Li, Qi Fan, Yunlin Mao, Luyan Su, Yingda Chen
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2608.16185)
 
+- *CTIFoundry: An Agent-Native Corpus Scaffold for Cyber Threat Intelligence*  
+Yutong Cheng, Changze Li, Qian Cui, Wei Ding, Lingzhi Wang, Yan Chen, Peng Gao  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2608.18613)
+
 ### Retrieval Analysis & Evaluation
 
 Studies characterizing agentic query workloads, comparing retrieval interfaces, and evaluating retrieval quality in deep research settings.
