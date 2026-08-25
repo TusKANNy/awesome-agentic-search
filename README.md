@@ -179,6 +179,11 @@ Tingyu Song, Yilun Zhao, Siyue Zhang, Chen Zhao, Arman Cohan
 EMNLP, 2025  
 📄 [paper](https://arxiv.org/abs/2510.23544) | 🛠️ [code](https://github.com/SighingSnow/LimRank)
 
+- *Adaptive Retrieval for Reasoning-Intensive Retrieval (REPAIR)*  
+Jongho Kim, Jaeyoung Kim, Seung-won Hwang, Jihyuk Kim, Yu Jin Kim, Moontae Lee  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2601.04618)
+
 - *Reproducing Adaptive Reranking for Reasoning-Intensive IR*  
 Mandeep Rathee, Venktesh V, Sean MacAvaney, Avishek Anand  
 SIGIR, 2026  
@@ -262,6 +267,11 @@ arXiv, 2026
 Haoliang Ming, Feifei Li, Xiaoqing Wu, Wenhui Que  
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2605.25480)
+
+- *More Context, Same Budget: Dual-Bounded Relational Recall Beyond Top-K Retrieval (DBRR)*  
+Thomson D. Nguy  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2608.18448)
 
 ### Direct Corpus Interaction
 
@@ -400,6 +410,11 @@ arXiv, 2026
 Sahil Sen, Akhil Kasturi, Elias Lumer, Anmol Gulati, Vamse Kumar Subbiah  
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2605.15184)
+
+- *Equal Accuracy, Unequal Evidence: Search APIs as Decision Surfaces for Tool-Using Agents*  
+Sriram Selvam, Anneswa Ghosh  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2607.10198)
 
 - *Bridge Evidence: Static Retrieval Utility Does Not Predict Causal Utility in Multi-Step Agentic Search*  
 Debayan Mukhopadhyay, Utshab Kumar Ghosh, Shubham Chatterjee  
@@ -895,6 +910,11 @@ arXiv, 2025
 Yuheng Lu, Qingcheng Zeng, Heli Qi, Puxuan Yu, Fuheng Zhao, Rui Yang, Hitomi Yanaka, Naoto Yokoya, Weihao Xuan  
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2606.15345)
+
+- *Projecting BrowseComp-Plus onto ClimbMix: Toward More Realistic Corpora for Agentic Search*  
+Sahel Sharifymoghaddam, Lingwei Gu, Yijun Ge, Jimmy Lin  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2608.20317) | 🛠️ [code](https://github.com/castorini/cmass)
 
 - *WideSearch: Benchmarking Agentic Broad Info-Seeking*  
 Ryan Wong, Jiawei Wang, Junjie Zhao, Li Chen, Yan Gao, Long Zhang, Xuan Zhou, Zuo Wang, Kai Xiang, Ge Zhang, Wenhao Huang, Yang Wang, Ke Wang  
