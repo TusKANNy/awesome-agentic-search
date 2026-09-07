@@ -165,6 +165,11 @@ Shrey Shah, Levent Ozgur
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2608.15956)
 
+- *ITER: Interaction-Aware Retrieval for Agentic Search*  
+Haodong Chen, Shuai Wang, Yu Yin, Shengyao Zhuang, Guido Zuccon, Teerapong Leelanupab  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2608.27912) | 🛠️ [code](https://github.com/ielab/ITER)
+
 ### Reranking
 
 Reranking components made reasoning-aware or reorganized around agentic search, rather than a fixed sequential pass.
