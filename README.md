@@ -441,6 +441,11 @@ Xiangzhe Xu, Hamidreza Saghir, Qianhui Wu, Marc-Alexandre Côté, Tong Wang, Kir
 COLM, 2026  
 📄 [paper](https://arxiv.org/abs/2608.11386) | 🛠️ [code](https://github.com/XZ-X/tool-arch-study)
 
+- *Retrieved but not ranked: surface-form bias in structural retrieval, from mathematics to agent trajectories*  
+Nabira Rashid, Manolis Kellis  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2609.01556) | 🛠️ [code](https://github.com/nabirarashid/structural-retrieval)
+
 ## The Agentic Search Loop
 
 Core papers on the agent's search behavior: how it plans, queries, retrieves, and adapts across the full information-seeking loop. This section is provided for context — this list's focus is on the retrieval side of agentic search. For a more in-depth selection of papers on the agentic search loop itself, see [Awesome-Search-Agent-Papers](https://github.com/YunjiaXi/Awesome-Search-Agent-Papers#early-iterative-retrieval).
@@ -483,6 +488,11 @@ SIGIR, 2025
 Xiaoxi Li, Jiajie Jin, Guanting Dong, Hongjin Qian, Yutao Zhu, Yongkang Wu, Ji-Rong Wen, Zhicheng Dou  
 NeurIPS, 2025  
 📄 [paper](https://arxiv.org/abs/2504.21776) | 🛠️ [code](https://github.com/RUC-NLPIR/WebThinker)
+
+- *ArcticSwarm: Deferring Early Consensus in Long-Horizon Multi-Agent Research*  
+Soyoung Yoon, Boyi Liu, Yite Wang, Ruofan Wu, Canwen Xu, Nikki Lijing Kuang, Seung-won Hwang, Yuxiong He, Zhewei Yao  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2609.01870)
 
 ### Query Formulation & Decomposition
 
