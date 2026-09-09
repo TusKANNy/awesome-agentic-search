@@ -112,7 +112,7 @@ arXiv, 2025
 
 - *Agentic-R: Learning to Retrieve for Agentic Search*  
 Wenhan Liu, Xinyu Ma, Yutao Zhu, Yuchen Li, Daiting Shi, Dawei Yin, Zhicheng Dou  
-arXiv, 2026  
+ACL Findings, 2026  
 📄 [paper](https://arxiv.org/abs/2601.11888)
 
 - *LaSER: Internalizing Explicit Reasoning into Latent Space for Dense Retrieval*  
