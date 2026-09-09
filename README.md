@@ -651,6 +651,11 @@ Boyang Xue, Bin Wu, Shuofei Qiao, Sheng Wang, Rui Wang, Yiming Du, Hongru Wang, 
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2608.10743) | 🛠️ [code](https://github.com/AmourWaltz/CRRL)
 
+- *PARSER: Read in Parallel, Reason in Depth for Long-Context LLM Agents*  
+Kun Li, Zexuan Qiu, Tianhua Zhang, Irwin King, Helen Meng  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2609.06702) | 🌐 [project](https://cuhk-parser.github.io/)
+
 ## Training & Optimization
 
 Methods for training agents to search effectively, through reinforcement learning or synthetic data generation. This section is provided for context — this list's focus is on the retrieval side of agentic search. For a more in-depth selection of RL-based agentic search training papers, see [Awesome-RL-based-Agentic-Search-Papers](https://github.com/ventr1c/Awesome-RL-based-Agentic-Search-Papers).
@@ -970,6 +975,11 @@ arXiv, 2026
 Lexiang Hu, Yanzhao Zhang, Mingxin Li, Dingkun Long, Yikang Li, Fuwei Zhang, Yisen Wang, Zhouchen Lin  
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2608.17889) | 🌐 [project](https://hulx2002.github.io/VisDocAgentBench)
+
+- *Q2D-Web: A Large-Scale Benchmark for Retrieval in Agentic RAG Systems*  
+Maximilian Schall, Sedigheh Eslami, Markus Krimmel, Antoine Chaffin, Louis Milliken, Bo Wang, Denis Bykov  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2609.08887) | 🌐 [leaderboard](https://huggingface.co/spaces/perplexity-ai/q2d-web-leaderboard)
 
 
 ## Resources
