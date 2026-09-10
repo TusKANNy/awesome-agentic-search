@@ -528,6 +528,11 @@ Zhipeng Qian, Zihan Liang, Yufei Ma, Ben Chen, Huangyu Dai, Jiayi Ji, Chenyi Lei
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2605.28354)
 
+- *ReCite: Agentic Reasoning for Faithful Citation*  
+Yuyang Huang, Bobo Li, Jiajia Song, Yuzhe Ding, Chong Teng, Fei Li, Donghong Ji  
+EMNLP Findings, 2026  
+📄 [paper](https://arxiv.org/abs/2609.09156)
+
 ### Adaptive Retrieval Control
 
 When to retrieve, how many times, and when to stop — including the decision between internal parametric knowledge and external retrieval.
@@ -980,6 +985,11 @@ arXiv, 2026
 Maximilian Schall, Sedigheh Eslami, Markus Krimmel, Antoine Chaffin, Louis Milliken, Bo Wang, Denis Bykov  
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2609.08887) | 🌐 [leaderboard](https://huggingface.co/spaces/perplexity-ai/q2d-web-leaderboard)
+
+- *Benchmarking Hybrid Deep Research Across Database Querying and Web Search (HybridDeepResearch)*  
+Ruofan Wu, Peiran Xu, Xiaolong Li, Fan Shu, Soyoung Yoon, Yite Wang, Xiaodong Yu, Boyi Liu, Feng Yan, Debiao Li, Yuxiong He, Zhewei Yao  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2609.09410)
 
 
 ## Resources
