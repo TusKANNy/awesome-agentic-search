@@ -112,7 +112,7 @@ arXiv, 2025
 
 - *Agentic-R: Learning to Retrieve for Agentic Search*  
 Wenhan Liu, Xinyu Ma, Yutao Zhu, Yuchen Li, Daiting Shi, Dawei Yin, Zhicheng Dou  
-ACL Findings, 2026  
+arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2601.11888)
 
 - *LaSER: Internalizing Explicit Reasoning into Latent Space for Dense Retrieval*  
@@ -532,6 +532,11 @@ arXiv, 2026
 Yuyang Huang, Bobo Li, Jiajia Song, Yuzhe Ding, Chong Teng, Fei Li, Donghong Ji  
 EMNLP Findings, 2026  
 📄 [paper](https://arxiv.org/abs/2609.09156)
+
+- *Question's Gambit: The First Move Matters in Agentic Deep Search*  
+Radin Hamidi Rad, Amin Bigdeli, Negar Arabzadeh, Sajad Ebrahimi, Charles L. A. Clarke, Benjamin C. M. Fung, Ebrahim Bagheri  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2609.14412) | 🛠️ [code](https://github.com/radinhamidi/Question-s-Gambit)
 
 ### Adaptive Retrieval Control
 
