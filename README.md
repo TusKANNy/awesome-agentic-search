@@ -170,6 +170,11 @@ Haodong Chen, Shuai Wang, Yu Yin, Shengyao Zhuang, Guido Zuccon, Teerapong Leela
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2608.27912) | 🛠️ [code](https://github.com/ielab/ITER)
 
+- *Self-Evolving Search Index (SELF-INDEX)*  
+Sangam Lee, Wonjae Lee, Sunghwan Kim, Deogyong Kim, Jaehoon Kim, Daye Nam, SeongKu Kang, Dongha Lee  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2609.19656)
+
 ### Reranking
 
 Reranking components made reasoning-aware or reorganized around agentic search, rather than a fixed sequential pass.
