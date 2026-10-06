@@ -112,7 +112,7 @@ arXiv, 2025
 
 - *Agentic-R: Learning to Retrieve for Agentic Search*  
 Wenhan Liu, Xinyu Ma, Yutao Zhu, Yuchen Li, Daiting Shi, Dawei Yin, Zhicheng Dou  
-arXiv, 2026  
+ACL Findings, 2026  
 📄 [paper](https://arxiv.org/abs/2601.11888)
 
 - *LaSER: Internalizing Explicit Reasoning into Latent Space for Dense Retrieval*  
@@ -174,6 +174,11 @@ arXiv, 2026
 Sangam Lee, Wonjae Lee, Sunghwan Kim, Deogyong Kim, Jaehoon Kim, Daye Nam, SeongKu Kang, Dongha Lee  
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2609.19656)
+
+- *T-Search: An Open Agentic Retriever and Playground for Hard Multi-Step Search*  
+Olga Tsymboi, Ramil Latypov, Aleksandr Medvedev, Danil Taranets, Dmitrii Stoianov, Nikita Gulyakov, Gleb Alektorov, Anatolii Potapov  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2610.06782) | 🛠️ [code](https://github.com/turbo-llm/t-search-harness)
 
 ### Reranking
 
@@ -283,6 +288,11 @@ Thomson D. Nguy
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2608.18448)
 
+- *Follow the Entities: A Corpus Map for Agentic Search (CorpusMap)*  
+Soyeong Jeong, Sujay Kumar Jauhar, Sung Ju Hwang, Andrew Joohun Nam  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2609.37226)
+
 ### Direct Corpus Interaction
 
 The agent bypasses pre-computed indexes entirely, interacting with the raw corpus via terminal-style tools (grep, file reads, shell commands).
@@ -372,6 +382,11 @@ Yutong Cheng, Changze Li, Qian Cui, Wei Ding, Lingzhi Wang, Yan Chen, Peng Gao
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2608.18613)
 
+- *Programmatic Search Agents: Extending Agentic Search Beyond Query Reformulation (PSA)*  
+Jiaming Qian, Huiyan Yang, Mandi Liu, Jie Liu, Wenkai Shen, Pengyang Zhou, Jing Jin, Jin Ma, Dezhi Ye, Chaochao Chen  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2610.06689)
+
 ### Retrieval Analysis & Evaluation
 
 Studies characterizing agentic query workloads, comparing retrieval interfaces, and evaluating retrieval quality in deep research settings.
@@ -450,6 +465,11 @@ COLM, 2026
 Nabira Rashid, Manolis Kellis  
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2609.01556) | 🛠️ [code](https://github.com/nabirarashid/structural-retrieval)
+
+- *Beyond Semantic Similarity: Performance and Costs of Agentic Retrieval for Complex Tasks*  
+Reza Esfandiarpoor, Radek Osmulski, Yauhen Babakhin, Gabriel de Souza P. Moreira, Oliver Holworthy, Jie He, Ronay Ak, Jiarui Cai, Ryan Chesler, Bo Liu, Even Oldridge  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2610.05750) | 🛠️ [code](https://github.com/NVIDIA/NeMo-Retriever/tree/main/retrieval-bench)
 
 ## The Agentic Search Loop
 
@@ -671,6 +691,11 @@ Kun Li, Zexuan Qiu, Tianhua Zhang, Irwin King, Helen Meng
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2609.06702) | 🌐 [project](https://cuhk-parser.github.io/)
 
+- *Harness-Search: Guiding Long-Horizon Search through Multi-Agent Coordination*  
+Shanyong Wang, Zhenwen Ji, Lei Jin, Yining Zhao, Yicheng Qian, Chengqiang Lu, Yi Wu, Yao Hu, Lizhen Cui, Yanyu Xu  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2610.05382)
+
 ## Training & Optimization
 
 Methods for training agents to search effectively, through reinforcement learning or synthetic data generation. This section is provided for context — this list's focus is on the retrieval side of agentic search. For a more in-depth selection of RL-based agentic search training papers, see [Awesome-RL-based-Agentic-Search-Papers](https://github.com/ventr1c/Awesome-RL-based-Agentic-Search-Papers).
@@ -796,6 +821,11 @@ arXiv, 2026
 Zhixin Zhang, Xinke Jiang, Zhibang Yang, Weixuan Xu, Guohong Qiu, Xu Chu, Junfeng Zhao, Yasha Wang  
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2608.11967)
+
+- *LexiHorizon: Stabilizing Reinforcement Learning for Long-Horizon Deep Search*  
+Zhiqing Nong, Liang Wen, Chao-Hsuan Liu  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2610.05119)
 
 ### Data Synthesis
 
