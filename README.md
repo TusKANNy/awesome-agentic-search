@@ -387,6 +387,11 @@ Jiaming Qian, Huiyan Yang, Mandi Liu, Jie Liu, Wenkai Shen, Pengyang Zhou, Jing 
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2610.06689)
 
+- *From Delivery to Stateful Exploration: Rethinking the Index for Agentic Search (IndexAct)*  
+Deogyong Kim, Sunghwan Kim, Sangam Lee, Wonjae Lee, Dongha Lee  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2610.07960) | 🛠️ [code](https://github.com/legenduck/IndexAct)
+
 ### Retrieval Analysis & Evaluation
 
 Studies characterizing agentic query workloads, comparing retrieval interfaces, and evaluating retrieval quality in deep research settings.
@@ -695,6 +700,11 @@ arXiv, 2026
 Shanyong Wang, Zhenwen Ji, Lei Jin, Yining Zhao, Yicheng Qian, Chengqiang Lu, Yi Wu, Yao Hu, Lizhen Cui, Yanyu Xu  
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2610.05382)
+
+- *RunningTab: Direct Workspace Interaction with Environment-Side Tabs*  
+Jinheon Baek, Soyeong Jeong, Yumin Choi, Dongsu Han, Sung Ju Hwang  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2610.10444)
 
 ## Training & Optimization
 
