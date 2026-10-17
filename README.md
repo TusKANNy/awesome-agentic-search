@@ -1006,6 +1006,11 @@ Yingchaojie Feng, Qiang Huang, Xiaoya Xie, Zhaorui Yang, Jun Yu, Wei Chen, Antho
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2601.06676)
 
+- *Super Research: Answering Highly Complex Questions with Large Language Models through Super Deep and Super Wide Research*  
+Yubo Dong, Nianhao You, Yuxuan Hou, Zixun Sun, Yue Zhang, Liang Zhang, Siyuan Zhao, Hehe Fan  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2603.00582) | 🛠️ [code](https://github.com/cnsdqd-dyb/Super-Research-Benchmark)
+
 - *DeepResearch-9K: A Challenging Benchmark Dataset of Deep-Research Agent*  
 Tongzhou Wu, Yuhao Wang, Xinyu Ma, Xiuqiang He, Shuaiqiang Wang, Dawei Yin, Xiangyu Zhao  
 SIGIR, 2026  
