@@ -224,6 +224,11 @@ Wenhan Liu, Yu Lu, Qiaolin Xia, Hui Xu, Tong Zhao, Jian Xi, Yutao Zhu, Haijin Li
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2608.03527)
 
+- *AdaTutoRank: Learning to Rerank Document Sets via Adaptive Tutoring Optimization for RAG and Deep Research*  
+Kailin Jiang, Lei Liu, Jian Xi, Yangqi Chen, Hui Xu, Hongwei Zhao, Bin Li, Yu Lu, Haibo Shi  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2609.32472) | 🛠️ [code](https://github.com/AdaTutoRank/AdaTutoRank)
+
 ### Structured & Hierarchical Retrieval
 
 Reorganizing the corpus itself into structures (graphs, hierarchies, wikis) that agents can traverse, rather than a flat similarity index.
@@ -292,6 +297,11 @@ arXiv, 2026
 Soyeong Jeong, Sujay Kumar Jauhar, Sung Ju Hwang, Andrew Joohun Nam  
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2609.37226)
+
+- *RIT-RAG: Navigating Document Corpora with Retrieval-Induced Trees*  
+Meghanadh Pulivarthi, Swaraj Kumar Biswal, Kushagra Bhushan, Yatin Nandwani, Sachindra Joshi, Dinesh Raghu  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2610.11370)
 
 ### Direct Corpus Interaction
 
@@ -392,6 +402,11 @@ Deogyong Kim, Sunghwan Kim, Sangam Lee, Wonjae Lee, Dongha Lee
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2610.07960) | 🛠️ [code](https://github.com/legenduck/IndexAct)
 
+- *Web$hell: A Unified Interface for Agentic Web Access*  
+Sunghwan Kim, Deogyong Kim, Sangam Lee, Donguk Kwon, Dongha Lee  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2610.13416)
+
 ### Retrieval Analysis & Evaluation
 
 Studies characterizing agentic query workloads, comparing retrieval interfaces, and evaluating retrieval quality in deep research settings.
@@ -475,6 +490,11 @@ arXiv, 2026
 Reza Esfandiarpoor, Radek Osmulski, Yauhen Babakhin, Gabriel de Souza P. Moreira, Oliver Holworthy, Jie He, Ronay Ak, Jiarui Cai, Ryan Chesler, Bo Liu, Even Oldridge  
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2610.05750) | 🛠️ [code](https://github.com/NVIDIA/NeMo-Retriever/tree/main/retrieval-bench)
+
+- *Retrieved but Not Read: Understanding Why Search-Augmented LLMs Fail to Use Available Evidence*  
+Owen Walters, Lihu Chen, Francesca Toni  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2610.21731) | 🛠️ [code](https://github.com/ojwwalters/retrieved-but-not-read)
 
 ## The Agentic Search Loop
 
@@ -706,6 +726,11 @@ Jinheon Baek, Soyeong Jeong, Yumin Choi, Dongsu Han, Sung Ju Hwang
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2610.10444)
 
+- *LongHarness: Advancing Agentic Reasoning over 100M-Token Corpora via Stateful Evidence Management*  
+Songtao Huang, Zhijie Zhong, Xiaohan He, Shuaiyu Zhang, Zhiyin Yu, Li Kang, Heng Zhou, Yutao Fan, Xiangchao Yan, Bo Zhang, Shiyang Feng  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2610.13075)
+
 ## Training & Optimization
 
 Methods for training agents to search effectively, through reinforcement learning or synthetic data generation. This section is provided for context — this list's focus is on the retrieval side of agentic search. For a more in-depth selection of RL-based agentic search training papers, see [Awesome-RL-based-Agentic-Search-Papers](https://github.com/ventr1c/Awesome-RL-based-Agentic-Search-Papers).
@@ -836,6 +861,11 @@ arXiv, 2026
 Zhiqing Nong, Liang Wen, Chao-Hsuan Liu  
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2610.05119)
+
+- *Beyond Outcome Rewards: Constructing and Assigning Retrieval Credit for Search Agents*  
+Wenyu Huang, Xinyu Hou, Pavlos Vougiouklis, Ruofei Lai, Jeff Z. Pan  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2610.10179)
 
 ### Data Synthesis
 
