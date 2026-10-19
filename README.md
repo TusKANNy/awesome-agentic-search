@@ -407,6 +407,11 @@ Sunghwan Kim, Deogyong Kim, Sangam Lee, Donguk Kwon, Dongha Lee
 arXiv, 2026  
 📄 [paper](https://arxiv.org/abs/2610.13416)
 
+- *Librarian Agents: Training LLMs to Curate Long-Context Workspaces that Anticipate Future Queries*  
+Anikait Singh, Teresa Zhang, Yoonho Lee, Roshen Sanjay Nair, Aviral Kumar, Chelsea Finn  
+arXiv, 2026  
+📄 [paper](https://arxiv.org/abs/2610.22273) | 🛠️ [code](https://github.com/teresaz05/librarian-agents)
+
 ### Retrieval Analysis & Evaluation
 
 Studies characterizing agentic query workloads, comparing retrieval interfaces, and evaluating retrieval quality in deep research settings.
